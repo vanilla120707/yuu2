@@ -3,4 +3,4 @@ input.onGesture(Gesture.ScreenDown, function () {
 })
 basic.showString("Hello!")
 basic.showIcon(IconNames.Happy)
-basic.showString("Hello!")
+basic.showString("upside down")
